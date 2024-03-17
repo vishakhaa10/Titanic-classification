@@ -1,0 +1,2 @@
+train:https://www.kaggle.com/competitions/titanic/data?select=train.csv
+test:https://www.kaggle.com/competitions/titanic/data?select=test.csv
